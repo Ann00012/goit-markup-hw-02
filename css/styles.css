@@ -70,10 +70,6 @@ text-decoration: none;
 
 .hero{
     background: #2E2F42;
-width: 1440px;
-height: 600px;
-top: 72px;
-gap: 0px;
 }
 
 .hero-title{
@@ -81,13 +77,7 @@ font-size: 56px;
 font-weight: 700;
 line-height: 60px;
 letter-spacing: 0.02em;
-text-align: center;
 color:#FFFFFF;
-width: 496px;
-height: 120px;
-top: 260px;
-left: 472px;
-gap: 0px;
 line-height: 1.07;
 }
 
@@ -97,11 +87,6 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
-border-radius: 4px;
-padding: 16px 32px;
-width: 169px;
-height: 56px;
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #4d5ae5;
 cursor: pointer;
 }
@@ -116,12 +101,15 @@ background: #404bbf;
 background-color: #FFFFFF;
 }
 
+.benefits-list{
+    background-color: #FFFFFF;
+}
+
 .benefits-list-item-title{
 font-size: 20px;
 font-weight: 500;
 line-height: 24px;
 letter-spacing: 0.02em;
-text-align: left;
 color: #2e2f42;
 }
 
@@ -130,7 +118,7 @@ font-size: 16px;
 font-weight: 400;
 line-height: 24px;
 letter-spacing: 0.02em;
-text-align: left;
+color: #2e2f42;
 }
 
 .benefits-list-item{
@@ -145,7 +133,6 @@ font-size: 36px;
 font-weight: 700;
 line-height: 40px;
 letter-spacing: 0.02em;
-text-align: center;
 line-height: 1.11;
 text-transform: capitalize;
 color: #2e2f42;
@@ -156,14 +143,12 @@ font-size: 20px;
 font-weight: 500;
 line-height: 24px;
 letter-spacing: 0.02em;
-text-align: center;
 }
 
 .ourteam-list-item-text{  
 font-size: 16px;
 line-height: 24px;
 letter-spacing: 0.02em;
-text-align: center;
 }
 
 .ourteam-list-item{
@@ -190,7 +175,7 @@ font-size: 20px;
 font-weight: 500;
 line-height: 24px;
 letter-spacing: 0.02em;
-text-align: left;
+color: #2e2f42 ;
 }
 
 .ourportfolio-list-item-text{
@@ -198,7 +183,6 @@ font-size: 16px;
 font-weight: 400;
 line-height: 24px;
 letter-spacing: 0.02em;
-text-align: left;
 }
 
 .footer{
@@ -213,6 +197,5 @@ color: #f4f4fd;
 font-size: 16px;
 line-height: 24px;
 letter-spacing: 0.02em;
-text-align: left;
 color:#F4F4FD;
 }
