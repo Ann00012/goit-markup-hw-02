@@ -126,7 +126,7 @@ color: #434455;
 }
 
 .ourteam{
-    background:  #FFFFFF;
+    background: #F4F4FD;
 }
 .ourteam-title{
 font-size: 36px;
@@ -156,6 +156,7 @@ color: #434455 ;
 
 .ourteam-list-item{
     list-style-type: none;
+    background-color: #FFFFFF;
 }
 
 
