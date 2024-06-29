@@ -79,6 +79,7 @@ line-height: 60px;
 letter-spacing: 0.02em;
 color:#FFFFFF;
 line-height: 1.07;
+text-align: center;
 }
 
 .hero-btn{
@@ -93,7 +94,6 @@ cursor: pointer;
 
 .hero-btn:hover,
 .hero-btn:focus{
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #404bbf;
 }
 
@@ -118,7 +118,7 @@ font-size: 16px;
 font-weight: 400;
 line-height: 24px;
 letter-spacing: 0.02em;
-color: #2e2f42;
+color: #434455;
 }
 
 .benefits-list-item{
@@ -136,6 +136,7 @@ letter-spacing: 0.02em;
 line-height: 1.11;
 text-transform: capitalize;
 color: #2e2f42;
+text-align: center;
 }
 
 .ourteam-list-item-title{
@@ -150,7 +151,7 @@ color: #2e2f42 ;
 font-size: 16px;
 line-height: 24px;
 letter-spacing: 0.02em;
-color: #2e2f42 ;
+color: #434455 ;
 }
 
 .ourteam-list-item{
@@ -170,6 +171,7 @@ letter-spacing: 0.02em;
 line-height: 1.11;
 text-transform: capitalize;
 color:#2e2f42;
+text-align: center;
 }
 
 .ourportfolio-list-item{
